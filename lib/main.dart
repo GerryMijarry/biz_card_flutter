@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               Text(
-                'GO/PYTHON/FLUTTER DEVELOPER & KUBERNETES ADMIN',
+                'RUST/PYTHON/FLUTTER DEVELOPER',
                 style: TextStyle(
                   fontFamily: 'Source Sans Pro',
                   color: Colors.teal,
