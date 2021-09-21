@@ -38,16 +38,16 @@ class MyApp extends StatelessWidget {
                 'Gerard M.',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
-                  fontSize: 40.0,
+                  fontSize: 30.0,
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
                 ),
               ),
               Text(
-                'RUST/PYTHON/FLUTTER DEVELOPER',
+                'RUST/PYTHON/FLUTTER DEV',
                 style: TextStyle(
                   fontFamily: 'Source Sans Pro',
-                  color: Colors.teal,
+                  color: Colors.white,
                   fontSize: 20.0,
                   letterSpacing: 2.5,
                   fontWeight: FontWeight.bold,
@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal,
                     ),
                     title: Text(
-                      '+44 123 456 789',
+                      '+1 915 555 5555',
                       style: TextStyle(
                         color: Colors.teal,
                         fontFamily: 'Source Sans Pro',
@@ -84,7 +84,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal,
                     ),
                     title: Text(
-                      'angela@email.com',
+                      'me@email.com',
                       style: TextStyle(
                           fontSize: 20.0,
                           color: Colors.teal,
